@@ -106,8 +106,7 @@ var main = function(){
     
     // create a bot
     var bot = new SlackBot({
-        //token: 'xoxb-109978401488-Kr0Ve1192ZIwY6bZC6xFsofx', // Add a bot https://my.slack.com/services/new/bot and put the token 
-        token: 'xoxb-108561500816-6dIwdKT4EB01j0ldLGpLKpp3', // Add a bot https://my.slack.com/services/new/bot and put the token 
+        token: 'xoxb-109978401488-Kr0Ve1192ZIwY6bZC6xFsofx', // Add a bot https://my.slack.com/services/new/bot and put the token 
         name: 'アイウソン翔',
     });
     
