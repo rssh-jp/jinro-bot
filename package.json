@@ -1,0 +1,23 @@
+{
+  "name": "jinro-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "slackbots": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rssh-jp/jinro-bot.git"
+  },
+  "author": "rssh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rssh-jp/jinro-bot/issues"
+  },
+  "homepage": "https://github.com/rssh-jp/jinro-bot#readme"
+}
